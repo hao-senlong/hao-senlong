@@ -4,7 +4,7 @@
 
 ## 📊 Projects
 
-### 🧹 [Laptop Data Cleaning (SQL)] (https://github.com/hao-senlong/sql_laptop_data_cleaning)
+### 🧹 [Laptop Data Cleaning (SQL)](https://github.com/hao-senlong/sql_laptop_data_cleaning)
 ### 📦 E-commerce Delivery Analysis (SQL + Tableau)
 
 ---
