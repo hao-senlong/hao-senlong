@@ -4,15 +4,14 @@
 
 ## 📊 Projects
 
-### 🧹 [Laptop Data Cleaning (SQL)](https://github.com/hao-senlong/sql_laptop_data_cleaning)
-### 📦 E-commerce Delivery Analysis (SQL + Tableau)
+### 📦 [E-commerce Data Cleaning and Analysis (SQL + Tableau)](https://github.com/hao-senlong/bytecart_data_analysis)
 
 ---
 
 ## 🛠️ Tools & Technologies
 
 **Languages:**  
-SQL (MySQL, PostgreSQL), Python, R  
+SQL (MySQL, PostgreSQL), R  
 
 **Visualisation:**  
 Tableau  
