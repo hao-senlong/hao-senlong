@@ -26,7 +26,7 @@ Excel
 ---
 
 ## 📄 Full CV
-[Download Resume](https://www.dropbox.com/scl/fi/ann7k8qq3536g9ovg1f0d/CV.-Alexey-Nosov.pdf?rlkey=zd531tn1e7go857igc251996q&st=x9lx7zkl&dl=0)
+[Download Resume](https://www.dropbox.com/scl/fi/oqkz35zgprbd3jxlnwbpl/CV-Alexey-Nosov.pdf?rlkey=ekh8ph7s3b48h1olhckkl30np&st=tq7e1qky&dl=0)
 
 ---
 
