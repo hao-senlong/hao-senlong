@@ -1,8 +1,8 @@
 [🇬🇧 English](#english) | [🇰🇷 한국어](#korean)
 
----
-
-## English
+  
+<a name="english"></a>
+═══════════════════════ ENGLISH ═══════════════════════
 
 👋 Hello, I'm Alexey
 
@@ -43,11 +43,14 @@ Excel
 ## 🔗 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/alexey-nosov-567043304/)
-- Email: alexeyschulte@gmail.com
+- Email: alexeyschulte @ gmail.com
 
----
 
-## Korean
+<br>
+<br>
+    
+<a name="korean"></a>
+═══════════════════════ 한국어 ═══════════════════════
 
 👋 안녕하세요, Alexey입니다
 
@@ -88,4 +91,4 @@ Excel
 ## 🔗 연락처
 
 - [LinkedIn](https://www.linkedin.com/in/alexey-nosov-567043304/)
-- 이메일: alexeyschulte@gmail.com
+- 이메일: alexeyschulte @ gmail.com
