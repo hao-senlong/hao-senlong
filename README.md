@@ -1,8 +1,10 @@
-[🇬🇧 English](#-helloin-english) | [🇰🇷 한국어](#-안녕하세요한국어)
+[🇬🇧 English](#english) | [🇰🇷 한국어](#korean)
 
 ---
 
-# 👋 Hello, I'm Alexey
+## English
+
+👋 Hello, I'm Alexey
 
 Data analyst with graduate training in quantitative methods and hands-on experience delivering end-to-end analysis across SQL, R, Tableau, and Python. Based in Seoul.
 
@@ -41,11 +43,13 @@ Excel
 ## 🔗 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/alexey-nosov-567043304/)
-- Email: alexeyschulte @ gmail.com
+- Email: alexeyschulte@gmail.com
 
 ---
 
-# 👋 안녕하세요, Alexey입니다
+## Korean
+
+👋 안녕하세요, Alexey입니다
 
 정량 분석 전공 대학원 학위를 갖춘 데이터 분석가입니다. SQL, R, Tableau, Python 등을 활용하여 데이터 수집부터 분석, 시각화까지 전 과정의 프로젝트 경험이 있습니다. 서울 거주.
 
@@ -84,9 +88,4 @@ Excel
 ## 🔗 연락처
 
 - [LinkedIn](https://www.linkedin.com/in/alexey-nosov-567043304/)
-- 이메일: alexeyschulte @ gmail.com
-
-
-
-
-
+- 이메일: alexeyschulte@gmail.com
