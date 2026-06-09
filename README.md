@@ -1,7 +1,6 @@
-[🇬🇧 English](#english) | [🇰🇷 한국어](#korean)
+[🇰🇷 한국어](#korean)
 
   
-<a name="english"></a>
 ═══════════════════════ ENGLISH ═══════════════════════
 
 👋 Hello, I'm Alexey
