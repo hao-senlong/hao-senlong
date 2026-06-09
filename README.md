@@ -83,7 +83,7 @@ Excel
 
 ## 📄 이력서
 
-[이력서 다운로드](https://www.dropbox.com/scl/fi/oqkz35zgprbd3jxlnwbpl/CV-Alexey-Nosov.pdf?rlkey=ekh8ph7s3b48h1olhckkl30np&st=tq7e1qky&dl=0)
+[이력서 다운로드](https://www.dropbox.com/scl/fi/d4h4qe6cffpusvvdj7cm5/.-.-2016.06.09.pdf?rlkey=puijzie031un3a1jig9f7j6fz&st=zfupvula&dl=0)
 
 ---
 
