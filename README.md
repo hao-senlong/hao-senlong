@@ -23,7 +23,7 @@ End-to-end commercial performance analysis of a South Korea–based e-commerce c
 ## 🛠️ Tools & Technologies
 
 **Data Analysis & Tools:**  
-SQL (MySQL, PostgreSQL) · R · Python · Stata
+SQL (MySQL, PostgreSQL, [BigQuery](https://www.skills.google/public_profiles/5f71a4c8-e602-43ba-96fb-f7ac638b2c35/badges/24934038)) · R · Python · Stata
 
 **Visualisation & Analytics:**  
 Tableau · Power BI · [Google Analytics](https://skillshop.credential.net/1662fa08-7530-459f-b9c1-249b91b0bf38#acc.WImcR3HK)
@@ -72,7 +72,7 @@ Excel
 
 **데이터 분석 도구:**  
 
-SQL (MySQL, PostgreSQL) · R · Python · Stata
+SQL (MySQL, PostgreSQL, [BigQuery](https://www.skills.google/public_profiles/5f71a4c8-e602-43ba-96fb-f7ac638b2c35/badges/24934038)) · R · Python · Stata
 
 **데이터 시각화 및 분석:**  
 Tableau · Power BI · [Google Analytics](https://skillshop.credential.net/1662fa08-7530-459f-b9c1-249b91b0bf38#acc.WImcR3HK)
