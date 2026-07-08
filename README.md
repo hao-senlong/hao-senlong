@@ -22,7 +22,7 @@ End-to-end commercial performance analysis of a South Korea–based e-commerce c
 
 ## 🛠️ Tools & Technologies
 
-**Data Analysis & Tools:**  
+**Data Analysis:**  
 SQL (MySQL, PostgreSQL, [BigQuery](https://www.skills.google/public_profiles/5f71a4c8-e602-43ba-96fb-f7ac638b2c35/badges/24934038)) · R · Python · Stata
 
 **Visualisation & Analytics:**  
