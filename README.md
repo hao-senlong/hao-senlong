@@ -20,16 +20,16 @@ End-to-end commercial performance analysis of a South Korea–based e-commerce c
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️ Tools & Skills
 
-**Data Analysis:**  
-SQL (MySQL, PostgreSQL, [BigQuery](https://www.skills.google/public_profiles/5f71a4c8-e602-43ba-96fb-f7ac638b2c35/badges/24934038)) · R · Python · Stata
+**Programming Languages:**  
+Python (Pandas, NumPy, Plotly) · SQL (MySQL, PostgreSQL, [BigQuery](https://www.skills.google/public_profiles/5f71a4c8-e602-43ba-96fb-f7ac638b2c35/badges/24934038)) · R (tidyverse, ggplot2, dplyr) · Stata
 
-**Visualisation & Analytics:**  
-Tableau · Power BI · [Google Analytics](https://skillshop.credential.net/1662fa08-7530-459f-b9c1-249b91b0bf38#acc.WImcR3HK)
+**Analytics Tools:**  
+Excel (Power Query, Power Pivot) · Tableau · Power BI · [Google Analytics](https://skillshop.credential.net/1662fa08-7530-459f-b9c1-249b91b0bf38#acc.WImcR3HK)
 
-**Other:**  
-Excel
+**Languages:**  
+Russian (Native) · English (IELTS 8.0) · Korean (TOPIK 6) · Chinese (HSK 5)
 
 ---
 
@@ -70,21 +70,22 @@ Excel
 
 ## 🛠️ 스킬 및 도구
 
-**데이터 분석 도구:**  
+**프로그래밍 언어:**  
+Python (Pandas, NumPy, Plotly) · SQL (MySQL, PostgreSQL, [BigQuery](https://www.skills.google/public_profiles/5f71a4c8-e602-43ba-96fb-f7ac638b2c35/badges/24934038)) · R (tidyverse, ggplot2, dplyr) · Stata
 
-SQL (MySQL, PostgreSQL, [BigQuery](https://www.skills.google/public_profiles/5f71a4c8-e602-43ba-96fb-f7ac638b2c35/badges/24934038)) · R · Python · Stata
+**분석 도구:**  
+Excel (Power Query, Power Pivot) · Tableau · Power BI · [Google Analytics](https://skillshop.credential.net/1662fa08-7530-459f-b9c1-249b91b0bf38#acc.WImcR3HK)
 
-**데이터 시각화 및 분석:**  
-Tableau · Power BI · [Google Analytics](https://skillshop.credential.net/1662fa08-7530-459f-b9c1-249b91b0bf38#acc.WImcR3HK)
-
-**기타:**  
-Excel
+**언어:**  
+러시아어 (원어민) · 영어 (IELTS 8.0) · 한국어 (TOPIK 6급) · 중국어 (HSK 5급)
 
 ---
 
-## 📄 이력서
+## 📄 이력서 및 경력기술서
 
 [이력서 다운로드](https://www.dropbox.com/scl/fi/d4h4qe6cffpusvvdj7cm5/.-.-2016.06.09.pdf?rlkey=puijzie031un3a1jig9f7j6fz&st=zfupvula&dl=0)
+
+[경력기술서 다운로드](https://www.dropbox.com/scl/fi/57cu3574ngndd2zisv1pk/.-.-2026.07.24.pdf?rlkey=3fnovtpeu7jgsqs3bmusfn4o8&st=ye4l2hj2&dl=0)
 
 ---
 
