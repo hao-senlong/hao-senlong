@@ -13,10 +13,14 @@ Data analyst with graduate training in quantitative methods and hands-on experie
 
 ### 📦 [ByteCart E-commerce Analysis (SQL + Tableau / Power BI)](https://github.com/hao-senlong/bytecart_data_analysis)
 
-End-to-end commercial performance analysis of a South Korea–based e-commerce company, covering four years of transactional data across 50,000+ orders. Explores revenue and profit trends, product category dynamics, and customer acquisition patterns to identify what lies beneath otherwise healthy headline numbers.
+End-to-end commercial performance analysis of a South Korea–based e-commerce company, covering four years of synthetic transactional data across 50,000+ orders. Explores revenue and profit trends, product category dynamics, and customer acquisition patterns to identify what lies beneath otherwise healthy headline numbers.
 
 - Tableau dashboard: [view here](https://public.tableau.com/app/profile/alexey.n2936/viz/ByteCartexploratoryanalysis_clean/5_Dashboard#1)
 - Power BI dashboard: in progress
+
+### 📚 [SkillRoute EdTech Analytics (Python) — in progress](#)
+
+End-to-end customer and subscription analytics project for a fictional South Korea–based EdTech platform, covering three years of synthetic data across 100,000 customers. Examines customer behaviour, subscription activity, course purchases, enrolments, and learning activity, with a focus on funnel and cohort analysis to investigate changes in the platform's recent business performance.
 
 ---
 
@@ -29,7 +33,7 @@ Python (Pandas, NumPy, Plotly) · SQL (MySQL, PostgreSQL, [BigQuery](https://www
 Excel (Power Query, Power Pivot) · Tableau · Power BI · [Google Analytics](https://skillshop.credential.net/1662fa08-7530-459f-b9c1-249b91b0bf38#acc.WImcR3HK)
 
 **Languages:**  
-Russian (Native) · English (IELTS 8.0) · Korean (TOPIK 6) · Chinese (HSK 5)
+Russian · English · Korean · Chinese
 
 ---
 
@@ -66,6 +70,10 @@ Russian (Native) · English (IELTS 8.0) · Korean (TOPIK 6) · Chinese (HSK 5)
 - Tableau 대시보드: [보기](https://public.tableau.com/app/profile/alexey.n2936/viz/ByteCartexploratoryanalysis_clean/5_Dashboard#1)
 - Power BI 대시보드: 진행 중
 
+### 📚 [SkillRoute 에듀테크 분석 (Python) — 진행 중](#)
+
+한국의 가상 에듀테크 기업을 대상으로 100,000명의 고객에 대한 3년간의 데이터를 활용하는 고객 및 구독 분석 프로젝트입니다. 고객 행동, 구독, 강의 구매, 수강 등록 및 학습 활동을 분석하며, 퍼널 분석과 코호트 분석을 중심으로 최근 플랫폼의 비즈니스 성과 변화 원인을 탐색하고 있습니다.
+
 ---
 
 ## 🛠️ 스킬 및 도구
@@ -77,7 +85,7 @@ Python (Pandas, NumPy, Plotly) · SQL (MySQL, PostgreSQL, [BigQuery](https://www
 Excel (Power Query, Power Pivot) · Tableau · Power BI · [Google Analytics](https://skillshop.credential.net/1662fa08-7530-459f-b9c1-249b91b0bf38#acc.WImcR3HK)
 
 **언어:**  
-러시아어 (원어민) · 영어 (IELTS 8.0) · 한국어 (TOPIK 6급) · 중국어 (HSK 5급)
+러시아어 · 영어 · 한국어 (TOPIK 6급) · 중국어
 
 ---
 
