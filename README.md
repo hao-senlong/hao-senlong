@@ -11,7 +11,7 @@ Data analyst with graduate training in quantitative methods and hands-on experie
 
 ## 📊 Projects
 
-### 📦 Revenue, Profit & Customer Acquisition Analysis (SQL, Tableau, Power BI)
+### 📦 [Revenue, Profit & Customer Acquisition Analysis (SQL, Tableau, Power BI)](https://github.com/hao-senlong/bytecart_data_analysis)
 
 Four-year commercial performance analysis for a South Korean e-commerce business (synthetic data, 50,000+ orders across five relational tables). Data cleaned and validated in SQL, then analysed in Tableau to surface revenue and profit trends, category-level margin dynamics, and new customer acquisition rates across product categories.
 
@@ -63,7 +63,7 @@ Russian · English · Korean · Chinese
 
 ## 📊 프로젝트
 
-### 📦 매출·수익 및 고객 확보 분석 (SQL, Tableau, Power BI)
+### 📦 [매출·수익 및 고객 확보 분석 (SQL, Tableau, Power BI)](https://github.com/hao-senlong/bytecart_data_analysis)
 
 가상의 한국 전자상거래 기업을 대상으로 한 4년간의 상업 성과 분석 프로젝트입니다(합성 데이터, 5만 건 이상의 주문, 5개 관계형 테이블). SQL로 데이터를 정제·검증한 뒤 Tableau로 분석해 매출 및 수익 추이, 카테고리별 마진 구조, 상품 카테고리별 신규 고객 확보율을 파악했습니다.
 
