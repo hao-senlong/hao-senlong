@@ -11,16 +11,16 @@ Data analyst with graduate training in quantitative methods and hands-on experie
 
 ## 📊 Projects
 
-### 📦 [ByteCart E-commerce Analysis (SQL + Tableau / Power BI)](https://github.com/hao-senlong/bytecart_data_analysis)
+### 📦 Revenue, Profit & Customer Acquisition Analysis (SQL, Tableau, Power BI)
 
-End-to-end commercial performance analysis of a South Korea–based e-commerce company, covering four years of synthetic transactional data across 50,000+ orders. Explores revenue and profit trends, product category dynamics, and customer acquisition patterns to identify what lies beneath otherwise healthy headline numbers.
+Four-year commercial performance analysis for a South Korean e-commerce business (synthetic data, 50,000+ orders across five relational tables). Data cleaned and validated in SQL, then analysed in Tableau to surface revenue and profit trends, category-level margin dynamics, and new customer acquisition rates across product categories.
 
 - Tableau dashboard: [view here](https://public.tableau.com/app/profile/alexey.n2936/viz/ByteCartexploratoryanalysis_clean/5_Dashboard#1)
 - Power BI dashboard: in progress
 
-### 📚 SkillRoute EdTech Analytics (Python) — in progress
+### 📚 Customer Journey & Subscription Funnel Analysis (Python) — in progress
 
-End-to-end customer and subscription analytics project for a fictional South Korea–based EdTech platform, covering three years of synthetic data across 100,000 customers. Examines customer behaviour, subscription activity, course purchases, enrolments, and learning activity, with a focus on funnel and cohort analysis to investigate changes in the platform's recent business performance.
+Three-year customer and subscription analytics project for a South Korean EdTech platform (synthetic data, 100,000 customers across six relational tables). Funnel and cohort analysis of the customer journey, including registration, subscription or course purchase, learning activity, and course completion, to investigate recent shifts in platform engagement.
 
 ---
 
@@ -63,16 +63,16 @@ Russian · English · Korean · Chinese
 
 ## 📊 프로젝트
 
-### 📦 [ByteCart 전자상거래 분석 (SQL + Tableau / Power BI)](https://github.com/hao-senlong/bytecart_data_analysis)
+### 📦 매출·수익 및 고객 확보 분석 (SQL, Tableau, Power BI)
 
-한국의 전자상거래 기업 ByteCart의 4년(2021-2024) 거래 데이터 50,000건 이상을 분석한 종합 상업 성과 분석 프로젝트입니다. 수익 추이, 상품 카테고리별 성과, 고객 확보 현황을 분석하여 겉으로 드러나는 수치 뒤에 숨겨진 구조적 문제를 파악했습니다.
+가상의 한국 전자상거래 기업을 대상으로 한 4년간의 상업 성과 분석 프로젝트입니다(합성 데이터, 5만 건 이상의 주문, 5개 관계형 테이블). SQL로 데이터를 정제·검증한 뒤 Tableau로 분석해 매출 및 수익 추이, 카테고리별 마진 구조, 상품 카테고리별 신규 고객 확보율을 파악했습니다.
 
 - Tableau 대시보드: [보기](https://public.tableau.com/app/profile/alexey.n2936/viz/ByteCartexploratoryanalysis_clean/5_Dashboard#1)
 - Power BI 대시보드: 진행 중
 
-### 📚 SkillRoute 에듀테크 분석 (Python) — 진행 중
+### 📚 고객 여정 및 구독 퍼널 분석 (Python) — 진행 중
 
-한국의 가상 에듀테크 기업을 대상으로 100,000명의 고객에 대한 3년간의 데이터를 활용하는 고객 및 구독 분석 프로젝트입니다. 고객 행동, 구독, 강의 구매, 수강 등록 및 학습 활동을 분석하며, 퍼널 분석과 코호트 분석을 중심으로 최근 플랫폼의 비즈니스 성과 변화 원인을 탐색하고 있습니다.
+가상의 한국 에듀테크 플랫폼을 대상으로 한 3년간의 고객 및 구독 분석 프로젝트입니다(합성 데이터, 고객 10만 명, 6개 관계형 테이블). 회원가입, 구독 또는 강의 구매, 학습 활동, 수강 완료 등 고객 여정을 중심으로 퍼널 분석과 코호트 분석을 진행해 최근 플랫폼 성과 변화 원인을 탐색하고 있습니다.
 
 ---
 
